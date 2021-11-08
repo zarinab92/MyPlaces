@@ -83,7 +83,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemYellowColor"/>
+                        <color key="backgroundColor" systemColor="systemGreenColor"/>
                         <constraints>
                             <constraint firstItem="xXM-7C-h69" firstAttribute="top" secondItem="Fj6-cz-WVN" secondAttribute="bottom" constant="30" id="0Rv-ek-P8c"/>
                             <constraint firstItem="Zky-Yg-kUl" firstAttribute="top" secondItem="rqa-wN-X0P" secondAttribute="bottom" constant="16" id="0p1-Qh-ckZ"/>
@@ -585,8 +585,8 @@
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
-        <systemColor name="systemYellowColor">
-            <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="systemGreenColor">
+            <color red="0.20392156862745098" green="0.7803921568627451" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
